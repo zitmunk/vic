@@ -1,0 +1,20 @@
+#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD
+https://unlimited4-cl.dps.live/contivision/contivision.smil/playlist.m3u8?laope.m3u8
+
+#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision Musica | HD
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados | SD
+http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+#EXTINF:-1, tvg-logo="KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="QL0Jmm8.png" group-title="Canales Chilenos", Canal Carnaval | HD
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="DAXmZWE.png" group-title="Canales Chilenos", FM Hot | HD
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
